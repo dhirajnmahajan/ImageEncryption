@@ -2,17 +2,17 @@
 
 A  Image Encryption project in Java.
 
-___Here I have made the Image Encryption Project to encrypt and decrypt the image.It is created in VS Code IDE and compiled with the javac compiler.
+####Here I have made the Image Encryption Project to encrypt and decrypt the image.It is created in VS Code IDE and compiled with the javac compiler.
 
 
-___In this program I used the concept like Applet and XOR Operation . On the basis of Applet I created the openImage button and various predefined funtions to select image. 
+####In this program I used the concept like Applet and XOR Operation . On the basis of Applet I created the openImage button and various predefined funtions to select image. 
 
-____Encryption :- is the process of converting information or data into a secrete code, especially to prevent unauthorized access.
+####Encryption :- is the process of converting information or data into a secrete code, especially to prevent unauthorized access.
 
-____Decryption:- means the conversion of encrypted data into its original form is nothing but Decryption. 
+####Decryption:- means the conversion of encrypted data into its original form is nothing but Decryption. 
 
-*--------------------------------------------------------*
-Image Encryption:
+
+##Image Encryption:
 
 __For encryption, we will convert the image into a byte array and after converting it we will apply XOR operation on each value of the byte array and after performing XOR operation on each and every value of byte array will be changed.
 
