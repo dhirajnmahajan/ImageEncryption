@@ -1,8 +1,9 @@
-# ImageEncryption
+# Image Encryption & Decryption
 
-A  Image Encryption project in Java.
+- A  Image Encryption and Decryption  project in Java.
 
-#### Here I have made the Image Encryption Project to encrypt and decrypt the image.It is created in VS Code IDE and compiled with the javac compiler.
+#### Here I have made the Image Encryption Project to encrypt and decrypt the image.
+#### It is created in VS Code IDE and compiled with the javac compiler.
 
 
 #### In this program I used the concept like Applet and XOR Operation . On the basis of Applet I created the openImage button and various predefined funtions to select image. 
@@ -14,9 +15,9 @@ A  Image Encryption project in Java.
 
 ## Image Encryption:
 
-__For encryption, we will convert the image into a byte array and after converting it we will apply XOR operation on each value of the byte array and after performing XOR operation on each and every value of byte array will be changed.
+- For encryption, we will convert the image into a byte array and after converting it we will apply XOR operation on each value of the byte array and after performing XOR operation on each and every value of byte array will be changed.
 
-__After performing the operation now we will write new data in Image due to which we are unable to open the Encrypted Image. 
+ - After performing the operation now we will write new data in Image due to which we are unable to open the Encrypted Image. 
 
 
 ## Screenshots :-
@@ -31,7 +32,7 @@ __After performing the operation now we will write new data in Image due to whic
 - [Dhiraj Mahajan](https://www.github.com/dhirajnmahajan)
 
 
-## FAQ
+## FAQ ?
 
 #### How to Encrypt the image ?
 
@@ -39,14 +40,14 @@ __After performing the operation now we will write new data in Image due to whic
 
 2. After selecting the image, that image will be encrypt automatically and 'Done' message will be prompted after few seconds.
 
-(Note: Rembered that digits which you entered for encryption in input box. )
+- (Note: Rembered that digits which you entered for encryption in input box. )
 
 #### How to Decrypt the image ?
 
 
-Encryption Key act as "Password" to Decrypt the same Image,otherwise it will corrupt the Image.
+- Encryption Key act as "Password" to Decrypt the same Image,otherwise it will corrupt the Image.
 
-(So entered those digits, which you entered during the encryption.)
+- (So entered those digits, which you entered during the encryption.)
 
 ## Lessons Learned
 
